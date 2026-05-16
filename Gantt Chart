@@ -1,0 +1,11 @@
+# ExitPredict – 2‑Week Gantt Chart
+
+| Task                                  | Week 1 (Mon–Sun) | Week 2 (Mon–Sun) |
+|---------------------------------------|------------------|------------------|
+| Project Setup & Dataset Acquisition   | ████████         |                  |
+| Exploratory Data Analysis (EDA)       | ████████         | ████             |
+| Data Cleaning & Preprocessing         |       ████████   | ████             |
+| Feature Engineering                   |            ████  | ████████         |
+| Model Training                        |                  | ████████         |
+| Model Evaluation & Optimization       |                  |     ████████     |
+| Insights & Reporting                  |                  |         ████████ |
