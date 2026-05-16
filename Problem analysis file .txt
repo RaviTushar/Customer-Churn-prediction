@@ -1,0 +1,28 @@
+# Problem Analysis
+
+## Business Problem
+Subscription-based companies depend on recurring revenue. Customer churn reduces revenue, increases acquisition costs, and affects long-term growth.
+
+## Main Question
+Can we predict which customers are likely to cancel their subscription?
+
+## Target Variable
+Churn: Yes/No
+
+## Possible Features
+- Customer tenure
+- Monthly charges
+- Total charges
+- Contract type
+- Payment method
+- Internet/service usage
+- Support/service features
+- Demographic data
+
+## Expected Output
+A classification model that predicts churn probability for each customer.
+
+## Success Criteria
+- Good accuracy, precision, recall, and F1-score
+- Clear churn factors
+- Useful business recommendations
